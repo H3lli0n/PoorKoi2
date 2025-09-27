@@ -1,15 +1,13 @@
 # PoorKoi2
 
-In 2024 we ran our first public group-buy with the PoorKoi 1, an acrylic stacked keyboard.
-30 happy users were very surprised by the clack of this simple 60% we made with love. Yes we made some mistakes but from this first version something was slowly growing in our mind: having the same thing in a cnc'd polycarbonate version !
+Hi, HLB team Here !
 
-In 2025 we are proud to show you the PoorKoi 2, the cnc'd version with all we've learned from the v1 as well as the Hyperbolas TKL project we've designed. We decided to change projects timeline and put this 60% keyboard in front for 2025. But why? (PoorKoi pronounced in french is "Pourquoi" meaning "why" - yeah we are funny!)
+In 2024 we ran our first public group-buy with the PoorKoi 1, an acrylic stacked keyboard. 30 happy users were very surprised by the clack of this simple 60% made with love. This was our first project, mistakes were made, but we learned a lot and we got confident that we could push even further: having the same thing in a cnc'd polycarbonate version!
 
-- Aiming an affordable price !
-- No brass weight or copper that are expensive
-- Popular and compact format
+We are aiming for the same clack and feeling with the polycarbonate version – with an affordable price. No brass weight or copper that are expensive if you don't sell 200 units. Simple design with references of the v1.
 
-From all those economic reasons we were able to order 5 prototypes from a well known manufacturer(yeah you know it starting with a "D"!) and we upgraded our game: laser cut Poron gaskets, custom carrying case, in house hotswap pcb (as well as new solder one) !
+We had to make a stand between affordability and customization, that’s why the standard version will be full polycarbonate – but extra aluminium top will be available for purchase during the group-buy.
+We were able to order 5 prototypes from a trusty and hight quality manufacturer – DDS while upgrading our game : laser cut Poron gaskets, custom carrying case, in house hotswap pcb (as well as new solder one) !
 
 ![PoorKoi 2](img/commercial.jpg)
 
@@ -21,11 +19,40 @@ From all those economic reasons we were able to order 5 prototypes from a well k
 - Brass plate
 - Geon feet D7
 - 1.6mm HS/Solder PCB
+  - RGB underglow
+  - Capslock / layers indicator
 - Unified DB C5
+
+Without feet:
+- 18mm front height
+- 23mm EKH
+
+![TechSpecs](img/techdraw.png)
 
 ## Compatibility
 Same compatibility as v1 with the hotswap pcb
 ![Layouts](img/compatibility.png)
+
+## When and where ?
+### When
+> First renders => done
+
+> Keyboard prototypes => under production
+
+> PCB prototypes => under production
+
+> GeeckHack IC => estimated november 2025
+
+> Group-buy => estimated december 2025 / january 2026
+
+### Where
+- EU: DeltaKeyCo.com
+- US: TBD
+- UK: TBD
+- KR: TBD
+- CN: TBD
+
+*estimated commercial targets, not final*
 
 ## Renders
 ### Full Polycarbonate - base kit
