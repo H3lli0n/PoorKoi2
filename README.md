@@ -7,9 +7,9 @@ In 2025 we are proud to show you the PoorKoi 2, the cnc'd version with all we've
 
 - Aiming an affordable price !
 - No brass weight or copper that are expensive
-- Compact and a format more popular
+- Popular and compact format
 
-From all those economic reasons we also were able 5 prototypes to a well known manufacturer(yeah you know it starting with a "D"!) and we upgraded the game as well: laser cut Poron gaskets, custom carrying case, in house hotswap pcb (as well as new solder one) !
+From all those economic reasons we were able to order 5 prototypes from a well known manufacturer(yeah you know it starting with a "D"!) and we upgraded our game: laser cut Poron gaskets, custom carrying case, in house hotswap pcb (as well as new solder one) !
 
 ![PoorKoi 2](img/commercial.jpg)
 
