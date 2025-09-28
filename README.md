@@ -55,6 +55,8 @@ Same compatibility as v1 with the hotswap pcb
 *estimated commercial targets, not final*
 
 ## Renders
+![3_4_view_norgb](img/3_4_view_norgb.jpg)
+![3_4_view_rgb](img/3_4_view_rgb.jpg)
 ### Full Polycarbonate - base kit
 ![PC_WK](img/commercial00.jpg)
 ![PC_WKL](img/commercial01.jpg)
@@ -73,6 +75,8 @@ Same compatibility as v1 with the hotswap pcb
 ## Files
 ### Plate
 Solder PCB supports full length right shift as well as 10U spacebar with 8U stabilizer.
-You can find 2 versions, the one from base kit and the one with extended compatibilities
+You can find 2 versions, the one from base kit and the one with extended compatibilities, both are compatible with PoorKoi v1
+
+[Standard plate](files/plate_brass.step)
 ### Firmware
 *Not yet tested - pcb under production*
