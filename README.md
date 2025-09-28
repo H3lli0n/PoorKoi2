@@ -41,7 +41,7 @@ Same compatibility as v1 with the hotswap pcb
 
 > PCB prototypes => under production
 
-> GeeckHack IC => estimated november 2025
+> GeekHack IC => estimated november 2025
 
 > Group-buy => estimated december 2025 / january 2026
 
@@ -78,5 +78,8 @@ Solder PCB supports full length right shift as well as 10U spacebar with 8U stab
 You can find 2 versions, the one from base kit and the one with extended compatibilities, both are compatible with PoorKoi v1
 
 [Standard plate](files/plate_brass.step)
+
+*Extended will be online later*
+
 ### Firmware
 *Not yet tested - pcb under production*
