@@ -9,6 +9,8 @@ We are aiming for the same clack and feeling with the polycarbonate version – 
 We had to make a stand between affordability and customization, that’s why the standard version will be full polycarbonate – but extra aluminium top will be available for purchase during the group-buy.
 We were able to order 5 prototypes from a trusty and hight quality manufacturer – DDS while upgrading our game : laser cut Poron gaskets, custom carrying case, in house hotswap pcb (as well as new solder one) !
 
+You can find us on [Discord](https://discord.gg/ZV8Ysf6buB)
+
 ![PoorKoi 2](img/commercial.jpg)
 
 ## Specifications
