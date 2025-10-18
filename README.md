@@ -84,4 +84,4 @@ You can find 2 versions, the one from base kit and the one with extended compati
 *Extended will be online later*
 
 ### Firmware
-*Not yet tested - pcb under production*
+HLB60-H (hotswap) and HLB60-S (solder) can be found here: [VIAL Releases](https://github.com/H3lli0n/vial-qmk/releases?q=hlb60&expanded=true)
