@@ -29,6 +29,8 @@ Without feet:
 - 18mm front height
 - 23mm EKH
 
+Weight full built = 950gr
+
 ![TechSpecs](img/techdraw.png)
 You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 
@@ -75,7 +77,6 @@ Same compatibility as v1 with the hotswap pcb
 Youtube video with first sound test here
 
 [![Sound test](https://img.youtube.com/vi/f2xPmUYwY1Q/default.jpg)](https://youtu.be/f2xPmUYwY1Q)
-## Files
 ## Files
 ### Plate
 Solder PCB supports full length right shift as well as 10U spacebar with 8U stabilizer.
