@@ -30,6 +30,7 @@ Without feet:
 - 23mm EKH
 
 ![TechSpecs](img/techdraw.png)
+You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 
 ## Compatibility
 Same compatibility as v1 with the hotswap pcb
@@ -39,13 +40,13 @@ Same compatibility as v1 with the hotswap pcb
 ### When
 > First renders => done
 
-> Keyboard prototypes => under production
+> Keyboard prototypes => done
 
-> PCB prototypes => under production
+> PCB prototypes => done
 
-> GeekHack IC => estimated november 2025
+> GeekHack IC => estimated december 2025
 
-> Group-buy => estimated december 2025 / january 2026
+> Group-buy => estimated january 2026
 
 ### Where
 - EU: DeltaKeyCo.com
@@ -55,8 +56,39 @@ Same compatibility as v1 with the hotswap pcb
 - CN: TBD
 
 *estimated commercial targets, not final*
+## Prototypes pictures
+![pcb1](img/prototype/HLB_PoorKoi2_PCB-2.jpg)
+![pcb2](img/prototype/HLB_PoorKoi2_PCB-3.jpg)
+### HHKB prototype with exclusive top color
+![picture1](img/prototype/HLB_PoorKoi2_Proto-2.jpg)
+![picture2](img/prototype/HLB_PoorKoi2_Proto-4.jpg)
+![picture3](img/prototype/HLB_PoorKoi2_Proto-8.jpg)
+![picture4](img/prototype/HLB_PoorKoi2_Proto-9.jpg)
+![picture5](img/prototype/HLB_PoorKoi2_Proto-11.jpg)
+![picture6](img/prototype/HLB_PoorKoi2_Proto-12.jpg)
+![picture7](img/prototype/HLB_PoorKoi2_Proto-14.jpg)
+![picture8](img/prototype/HLB_PoorKoi2_Proto-18.jpg)
+![picture9](img/prototype/HLB_PoorKoi2_Proto-20.jpg)
+![picture10](img/prototype/HLB_PoorKoi2_Proto-22.jpg)
+![picture11](img/prototype/HLB_PoorKoi2_Proto-25.jpg)
+## Sound test
+Youtube video with first sound test here
 
-## Renders
+[![Sound test](https://img.youtube.com/vi/f2xPmUYwY1Q/default.jpg)](https://youtu.be/f2xPmUYwY1Q)
+## Files
+## Files
+### Plate
+Solder PCB supports full length right shift as well as 10U spacebar with 8U stabilizer.
+You can find 2 versions, the one from base kit and the one with extended compatibilities, both are compatible with PoorKoi v1
+
+[Standard plate](files/plate_brass.step)
+
+*Extended will be online later*
+
+### Firmware
+HLB60-H (hotswap) and HLB60-S (solder) can be found here: [VIAL Releases](https://github.com/H3lli0n/vial-qmk/releases?q=hlb60&expanded=true)
+
+## Initial Renders
 ![3_4_view_norgb](img/3_4_view_norgb.jpg)
 ![3_4_view_rgb](img/3_4_view_rgb.jpg)
 ### Full Polycarbonate - base kit
@@ -71,17 +103,3 @@ Same compatibility as v1 with the hotswap pcb
 ![RedAlert](img/commercial06.jpg)
 ![Yellow](img/commercial07.jpg)
 ![GlacierBlue](img/commercial08.jpg)
-
-## Prototypes pictures
-*Prototypes under production*
-## Files
-### Plate
-Solder PCB supports full length right shift as well as 10U spacebar with 8U stabilizer.
-You can find 2 versions, the one from base kit and the one with extended compatibilities, both are compatible with PoorKoi v1
-
-[Standard plate](files/plate_brass.step)
-
-*Extended will be online later*
-
-### Firmware
-HLB60-H (hotswap) and HLB60-S (solder) can be found here: [VIAL Releases](https://github.com/H3lli0n/vial-qmk/releases?q=hlb60&expanded=true)
