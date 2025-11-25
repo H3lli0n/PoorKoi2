@@ -87,7 +87,7 @@ You can find 2 versions, the one from base kit and the one with extended compati
 *Extended will be online later*
 
 ### Firmware
-HLB60-H (hotswap) and HLB60-S (solder) can be found here: [VIAL Releases](https://github.com/H3lli0n/vial-qmk/releases?q=hlb60&expanded=true)
+You can find documentation and firmware on the dedicated page [HLB60 doc](https://github.com/H3lli0n/HLB-Projects?tab=readme-ov-file#hlb60)
 
 ## Initial Renders
 ![3_4_view_norgb](img/3_4_view_norgb.jpg)
