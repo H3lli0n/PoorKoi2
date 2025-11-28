@@ -56,8 +56,12 @@ Same compatibility as v1 with the hotswap pcb
 - UK: TBD
 - KR: TBD
 - CN: TBD
-
 *estimated commercial targets, not final*
+
+## Build Guide
+
+You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guide.pdf)
+
 ## Prototypes pictures
 ![pcb1](img/prototype/HLB_PoorKoi2_PCB-2.jpg)
 ![pcb2](img/prototype/HLB_PoorKoi2_PCB-3.jpg)
