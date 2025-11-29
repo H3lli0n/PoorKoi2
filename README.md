@@ -38,7 +38,7 @@ You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 Same compatibility as v1 with the hotswap pcb
 ![Layouts](img/compatibility.png)
 
-## When and where ?
+## Project's status
 ### When
 > First renders => done
 
@@ -57,6 +57,10 @@ Same compatibility as v1 with the hotswap pcb
 - KR: TBD
 - CN: TBD
 *estimated commercial targets, not final*
+
+### Changelog
+- HLB60 is now our standard pcb and koï fishes are removed from the back
+- Polycarbonate bottom will have 2 koï fishes like the carrying case
 
 ## Build Guide
 
@@ -77,7 +81,7 @@ You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guid
 ![picture9](img/prototype/HLB_PoorKoi2_Proto-20.jpg)
 ![picture10](img/prototype/HLB_PoorKoi2_Proto-22.jpg)
 ![picture11](img/prototype/HLB_PoorKoi2_Proto-25.jpg)
-## Sound test
+## Reviews and sound tests
 Youtube video with first sound test here
 
 [![Sound test](https://img.youtube.com/vi/f2xPmUYwY1Q/default.jpg)](https://youtu.be/f2xPmUYwY1Q)
