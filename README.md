@@ -16,7 +16,7 @@ You can find us on [Discord](https://discord.gg/ZV8Ysf6buB)
 ## Specifications
 - 60% Poron gasket mount
 - 7° typing angle
-- Polycarbonate WK/WKL/HHKB top
+- Polycarbonate WK/WKL/HHKB top (aluminium in extra for now)
 - Polycarbonate bottom with central aluminium part
 - Brass plate
 - Geon feet D7
@@ -29,7 +29,7 @@ Without feet:
 - 18mm front height
 - 23mm EKH
 
-Weight full built = 950gr
+Weight full built (aluminium top)= 950gr
 
 ![TechSpecs](img/techdraw.png)
 You can find and share this [PDF Tech view](files/PoorTechView.pdf)
@@ -56,6 +56,7 @@ Same compatibility as v1 with the hotswap pcb
 - UK: TBD
 - KR: TBD
 - CN: TBD
+
 *estimated commercial targets, not final*
 
 ### Changelog
