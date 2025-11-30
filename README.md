@@ -82,9 +82,10 @@ You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guid
 ![picture10](img/prototype/HLB_PoorKoi2_Proto-22.jpg)
 ![picture11](img/prototype/HLB_PoorKoi2_Proto-25.jpg)
 ## Reviews and sound tests
-Youtube video with first sound test here
-
-[![Sound test](https://img.youtube.com/vi/f2xPmUYwY1Q/default.jpg)](https://youtu.be/f2xPmUYwY1Q)
+- Live stream of french streamer d3smo_ 
+  - [![d3smo live stream](img/d3smo_stream.jpg)](https://www.twitch.tv/videos/2630903375?t=1h53m59s)
+- Personal sound comparaison with same build v1 / v2 
+  - [![Personal sound test](https://img.youtube.com/vi/f2xPmUYwY1Q/default.jpg)](https://youtu.be/f2xPmUYwY1Q)
 ## Files
 ### Plate
 Solder PCB supports full length right shift as well as 10U spacebar with 8U stabilizer.
