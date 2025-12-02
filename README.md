@@ -68,8 +68,13 @@ Same compatibility as v1 with the hotswap pcb
 You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guide.pdf)
 
 ## Prototypes pictures
-![pcb1](img/prototype/HLB_PoorKoi2_PCB-2.jpg)
-![pcb2](img/prototype/HLB_PoorKoi2_PCB-3.jpg)
+### WK Polycarbonate
+![picture1](img/prototype/HLB_PoorKoi2_PC_Proto-2.jpg)
+![picture2](img/prototype/HLB_PoorKoi2_PC_Proto-3.jpg)
+![picture3](img/prototype/HLB_PoorKoi2_PC_Proto-4.jpg)
+![picture4](img/prototype/HLB_PoorKoi2_PC_Proto-5.jpg)
+![picture5](img/prototype/HLB_PoorKoi2_PC_Proto-6.jpg)
+![picture6](img/prototype/HLB_PoorKoi2_PC_Proto.jpg)
 ### HHKB prototype with exclusive top color
 ![picture1](img/prototype/HLB_PoorKoi2_Proto-2.jpg)
 ![picture2](img/prototype/HLB_PoorKoi2_Proto-4.jpg)
@@ -82,6 +87,9 @@ You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guid
 ![picture9](img/prototype/HLB_PoorKoi2_Proto-20.jpg)
 ![picture10](img/prototype/HLB_PoorKoi2_Proto-22.jpg)
 ![picture11](img/prototype/HLB_PoorKoi2_Proto-25.jpg)
+### PCB
+![pcb1](img/prototype/HLB_PoorKoi2_PCB-2.jpg)
+![pcb2](img/prototype/HLB_PoorKoi2_PCB-3.jpg)
 ## Reviews and sound tests
 - Live stream of french streamer d3smo_ 
   - [![d3smo live stream](img/d3smo_stream.jpg)](https://www.twitch.tv/videos/2630903375?t=1h53m59s)
