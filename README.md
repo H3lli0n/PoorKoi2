@@ -68,6 +68,8 @@ Same compatibility as v1 with the hotswap pcb
 You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guide.pdf)
 
 ## Prototypes pictures
+### WK Purple
+![picture1](img/prototype/HLB_PoorKoi2_Purple_Proto.jpg)
 ### WK Polycarbonate
 ![picture1](img/prototype/HLB_PoorKoi2_PC_Proto-2.jpg)
 ![picture2](img/prototype/HLB_PoorKoi2_PC_Proto-3.jpg)
@@ -91,9 +93,9 @@ You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guid
 ![pcb1](img/prototype/HLB_PoorKoi2_PCB-2.jpg)
 ![pcb2](img/prototype/HLB_PoorKoi2_PCB-3.jpg)
 ## Reviews and sound tests
-- Live stream of french streamer d3smo_ 
+- Live stream of french streamer d3smo with HMX Firecrackers
   - [![d3smo live stream](img/d3smo_stream.jpg)](https://www.twitch.tv/videos/2630903375?t=1h53m59s)
-- Personal sound comparaison with same build v1 / v2 
+- Personal sound comparaison with same build v1 / v2 (Gateron Baby Kangaroo)
   - [![Personal sound test](https://img.youtube.com/vi/f2xPmUYwY1Q/default.jpg)](https://youtu.be/f2xPmUYwY1Q)
 ## Files
 ### Plate
