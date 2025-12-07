@@ -36,8 +36,9 @@ You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 
 ## Compatibility
 - Hotswap
-![Layouts](img/compatibility.png)
-
+![Layouts](img/hlb60-h_visual.svg)
+- Solder
+![Layouts](img/hlb60-s_visual.svg)
 ## Project's status
 ### When
 > First renders => done
