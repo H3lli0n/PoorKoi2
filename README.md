@@ -35,7 +35,7 @@ Weight full built (aluminium top)= 950gr
 You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 
 ## Compatibility
-Same compatibility as v1 with the hotswap pcb
+- Hotswap
 ![Layouts](img/compatibility.png)
 
 ## Project's status
@@ -67,36 +67,12 @@ Same compatibility as v1 with the hotswap pcb
 
 You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guide.pdf)
 
-## Prototypes pictures
-### WK Purple
-![picture1](img/prototype/HLB_PoorKoi2_Purple_Proto.jpg)
-### WK Polycarbonate
-![picture1](img/prototype/HLB_PoorKoi2_PC_Proto-2.jpg)
-![picture2](img/prototype/HLB_PoorKoi2_PC_Proto-3.jpg)
-![picture3](img/prototype/HLB_PoorKoi2_PC_Proto-4.jpg)
-![picture4](img/prototype/HLB_PoorKoi2_PC_Proto-5.jpg)
-![picture5](img/prototype/HLB_PoorKoi2_PC_Proto-6.jpg)
-![picture6](img/prototype/HLB_PoorKoi2_PC_Proto.jpg)
-### HHKB prototype with exclusive top color
-![picture1](img/prototype/HLB_PoorKoi2_Proto-2.jpg)
-![picture2](img/prototype/HLB_PoorKoi2_Proto-4.jpg)
-![picture3](img/prototype/HLB_PoorKoi2_Proto-8.jpg)
-![picture4](img/prototype/HLB_PoorKoi2_Proto-9.jpg)
-![picture5](img/prototype/HLB_PoorKoi2_Proto-11.jpg)
-![picture6](img/prototype/HLB_PoorKoi2_Proto-12.jpg)
-![picture7](img/prototype/HLB_PoorKoi2_Proto-14.jpg)
-![picture8](img/prototype/HLB_PoorKoi2_Proto-18.jpg)
-![picture9](img/prototype/HLB_PoorKoi2_Proto-20.jpg)
-![picture10](img/prototype/HLB_PoorKoi2_Proto-22.jpg)
-![picture11](img/prototype/HLB_PoorKoi2_Proto-25.jpg)
-### PCB
-![pcb1](img/prototype/HLB_PoorKoi2_PCB-2.jpg)
-![pcb2](img/prototype/HLB_PoorKoi2_PCB-3.jpg)
-## Reviews and sound tests
-- Live stream of french streamer d3smo with HMX Firecrackers
-  - [![d3smo live stream](img/d3smo_stream.jpg)](https://www.twitch.tv/videos/2630903375?t=1h53m59s)
-- Personal sound comparaison with same build v1 / v2 (Gateron Baby Kangaroo)
-  - [![Personal sound test](https://img.youtube.com/vi/f2xPmUYwY1Q/default.jpg)](https://youtu.be/f2xPmUYwY1Q)
+## Media
+
+All prototypes pictures and sound test / reviews are listed on the dedicated web page here :
+
+[![HLB PoorKoi 2 multimedia content](img/prototype/HLB_PoorKoi2_PC_Proto-3.jpg)](https://www.oliversphotoblog.com/2025/12/07/hlb-poorkoi-2/ "Go to multimedia content")
+
 ## Files
 ### Plate
 Solder PCB supports full length right shift as well as 10U spacebar with 8U stabilizer.
