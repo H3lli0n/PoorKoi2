@@ -1,2616 +1,3665 @@
-
-  <svg width='1110px'
-       height='570px'
-       viewBox='0 0 1110 570'
-       xmlns='http://www.w3.org/2000/svg'
-       xmlns:xlink="http://www.w3.org/1999/xlink">
-
-    <style type='text/css'>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1110px"
+   height="570px"
+   viewBox="0 0 1110 570"
+   version="1.1"
+   id="svg335"
+   sodipodi:docname="hlb60-h_visual.svg"
+   inkscape:export-filename="hlb60-h_visual.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview335"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1"
+     inkscape:cx="400.5"
+     inkscape:cy="163.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <style
+     type="text/css"
+     id="style1">
     .keycap .border { stroke: black; stroke-width: 2; }
     .keycap .inner.border { stroke: rgba(0,0,0,.1); }
     </style>
-    <defs>
-      <linearGradient id="DCS">
-        <stop offset="0%" stop-color="black" stop-opacity="0"/>
-        <stop offset="40%" stop-color="black" stop-opacity="0.1"/>
-        <stop offset="60%" stop-color="black" stop-opacity="0.1"/>
-        <stop offset="100%" stop-color="black" stop-opacity="0"/>
-      </linearGradient>
-      <linearGradient id="SPACE" x1="0%" x2="0%" y1="0%" y2="100%">
-        <stop offset="0%" stop-color="black" stop-opacity="0.1"/>
-        <stop offset="20%" stop-color="black" stop-opacity="0.0"/>
-        <stop offset="40%" stop-color="black" stop-opacity="0.0"/>
-        <stop offset="100%" stop-color="black" stop-opacity="0.1"/>
-      </linearGradient>
-      <radialGradient id="DSA">
-        <stop offset="0%" stop-color="black" stop-opacity="0.1"/>
-        <stop offset="10%" stop-color="black" stop-opacity="0.1"/>
-        <stop offset="100%" stop-color="black" stop-opacity="0"/>
-      </radialGradient>
-      <radialGradient id="SA" xlink:href="#DSA" />
-    </defs>
-
-    <g transform='translate(10,10)'>
-      <rect width="1090" height="550"
-            stroke="#ddd" stroke-width="1" fill="#eeeeee" rx="6"/>
-      <g transform='translate(5,5)'>
-        
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="838" y="1"
-          width="52" height="52"
-          rx="5" fill="#e2aaff" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="838" y="1"
-          width="52" height="52"
-          rx="5" fill="#e2aaff"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="844" y="4"
-            width="40" height="40"
-            rx="5" fill="#ffd7ff" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="844" y="4"
-            width="40" height="40"
-            rx="5" fill="#ffd7ff"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="892" y="1"
-          width="52" height="52"
-          rx="5" fill="#e2aaff" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="892" y="1"
-          width="52" height="52"
-          rx="5" fill="#e2aaff"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="898" y="4"
-            width="40" height="40"
-            rx="5" fill="#ffd7ff" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="898" y="4"
-            width="40" height="40"
-            rx="5" fill="#ffd7ff"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="136" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="136" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="142" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="142" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="190" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="190" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="196" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="196" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="244" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="244" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="250" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="250" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="298" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="298" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="304" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="304" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="352" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="352" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="358" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="358" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="406" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="406" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="412" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="412" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="460" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="460" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="466" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="466" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="514" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="514" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="520" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="520" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="568" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="568" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="574" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="574" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="622" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="622" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="628" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="628" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="676" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="676" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="682" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="682" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="730" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="730" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="736" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="736" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="784" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="784" y="68.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="790" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="790" y="71.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="838" y="68.5"
-          width="106" height="52"
-          rx="5" fill="#7203ba" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="838" y="68.5"
-          width="106" height="52"
-          rx="5" fill="#7203ba"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="844" y="71.5"
-            width="94" height="40"
-            rx="5" fill="#8523cd" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="844" y="71.5"
-            width="94" height="40"
-            rx="5" fill="#8523cd"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="136" y="122.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="136" y="122.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="142" y="125.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="142" y="125.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="217" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="217" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="223" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="223" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="271" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="271" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="277" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="277" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="325" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="325" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="331" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="331" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="379" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="379" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="385" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="385" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="433" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="433" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="439" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="439" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="487" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="487" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="493" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="493" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="541" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="541" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="547" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="547" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="595" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="595" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="601" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="601" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="649" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="649" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="655" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="655" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="703" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="703" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="709" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="709" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="757" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="757" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="763" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="763" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="811" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="811" y="122.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="817" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="817" y="125.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="865" y="122.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="865" y="122.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="871" y="125.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="871" y="125.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="1013.5" y="122.5"
-          width="65.5" height="106"
-          rx="5" fill="#89a2e5" class="outer border"/>
-    
-      <rect x="1000" y="122.5"
-            width="79" height="52"
-            rx="5" fill="#89a2e5" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="1013.5" y="122.5"
-          width="65.5" height="106"
-          rx="5" fill="#89a2e5"/>
-    
-      <rect x="1000" y="122.5"
-            width="79" height="52"
-            rx="5" fill="#89a2e5"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="1019.5" y="125.5"
-            width="53.5" height="94"
-            rx="5" fill="#b0c8ff" class="inner border"/>
-      
-        <rect x="1006" y="125.5"
-              width="67" height="40"
-              rx="5" fill="#b0c8ff" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="1019.5" y="125.5"
-            width="53.5" height="94"
-            rx="5" fill="#b0c8ff"/>
-      
-        <rect x="1006" y="125.5"
-              width="67" height="40"
-              rx="5" fill="#b0c8ff"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="1" y="176.5"
-          width="65.5" height="52"
-          rx="5" fill="#ef7272" class="outer border"/>
-    
-      <rect x="1" y="176.5"
-            width="92.5" height="52"
-            rx="5" fill="#ef7272" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="1" y="176.5"
-          width="65.5" height="52"
-          rx="5" fill="#ef7272"/>
-    
-      <rect x="1" y="176.5"
-            width="92.5" height="52"
-            rx="5" fill="#ef7272"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="7" y="179.5"
-            width="53.5" height="40"
-            rx="5" fill="#ff9693" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="7" y="179.5"
-            width="53.5" height="40"
-            rx="5" fill="#ff9693"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="136" y="176.5"
-          width="92.5" height="52"
-          rx="5" fill="#7203ba" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="136" y="176.5"
-          width="92.5" height="52"
-          rx="5" fill="#7203ba"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="142" y="179.5"
-            width="80.5" height="40"
-            rx="5" fill="#8523cd" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="142" y="179.5"
-            width="80.5" height="40"
-            rx="5" fill="#8523cd"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="230.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="230.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="236.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="236.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="284.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="284.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="290.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="290.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="338.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="338.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="344.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="344.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="392.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="392.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="398.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="398.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="446.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="446.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="452.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="452.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="500.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="500.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="506.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="506.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="554.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="554.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="560.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="560.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="608.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="608.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="614.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="614.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="662.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="662.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="668.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="668.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="716.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="716.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="722.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="722.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="770.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="770.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="776.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="776.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="824.5" y="176.5"
-          width="119.5" height="52"
-          rx="5" fill="#7203ba" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="824.5" y="176.5"
-          width="119.5" height="52"
-          rx="5" fill="#7203ba"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="830.5" y="179.5"
-            width="107.5" height="40"
-            rx="5" fill="#8523cd" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="830.5" y="179.5"
-            width="107.5" height="40"
-            rx="5" fill="#8523cd"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="959.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#89a2e5" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="959.5" y="176.5"
-          width="52" height="52"
-          rx="5" fill="#89a2e5"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="965.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#b0c8ff" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="965.5" y="179.5"
-            width="40" height="40"
-            rx="5" fill="#b0c8ff"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="1" y="230.5"
-          width="65.5" height="52"
-          rx="5" fill="#e5a922" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="1" y="230.5"
-          width="65.5" height="52"
-          rx="5" fill="#e5a922"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="7" y="233.5"
-            width="53.5" height="40"
-            rx="5" fill="#ffd250" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="7" y="233.5"
-            width="53.5" height="40"
-            rx="5" fill="#ffd250"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="68.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#e5a922" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="68.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#e5a922"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="74.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#ffd250" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="74.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#ffd250"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="136" y="230.5"
-          width="119.5" height="52"
-          rx="5" fill="#7203ba" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="136" y="230.5"
-          width="119.5" height="52"
-          rx="5" fill="#7203ba"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="142" y="233.5"
-            width="107.5" height="40"
-            rx="5" fill="#8523cd" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="142" y="233.5"
-            width="107.5" height="40"
-            rx="5" fill="#8523cd"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="257.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="257.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="263.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="263.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="311.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="311.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="317.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="317.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="365.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="365.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="371.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="371.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="419.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="419.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="425.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="425.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="473.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="473.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="479.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="479.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="527.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="527.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="533.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="533.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="581.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="581.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="587.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="587.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="635.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="635.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="641.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="641.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="689.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="689.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="695.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="695.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="743.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="743.5" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="749.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="749.5" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="797.5" y="230.5"
-          width="92.5" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="797.5" y="230.5"
-          width="92.5" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="803.5" y="233.5"
-            width="80.5" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="803.5" y="233.5"
-            width="80.5" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="892" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="892" y="230.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="898" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="898" y="233.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="136" y="284.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="136" y="284.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="142" y="287.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="142" y="287.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="217" y="284.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="217" y="284.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="223" y="287.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="223" y="287.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="271" y="284.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="271" y="284.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="277" y="287.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="277" y="287.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="352" y="284.5"
-          width="376" height="52"
-          rx="5" fill="#7203ba" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="352" y="284.5"
-          width="376" height="52"
-          rx="5" fill="#7203ba"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="358" y="287.5"
-            width="364" height="40"
-            rx="5" fill="#8523cd" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="358" y="287.5"
-            width="364" height="40"
-            rx="5" fill="#8523cd"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="730" y="284.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="730" y="284.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="736" y="287.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="736" y="287.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="811" y="284.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="811" y="284.5"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="817" y="287.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="817" y="287.5"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="865" y="284.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="865" y="284.5"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="871" y="287.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="871" y="287.5"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="136" y="352"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="136" y="352"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="142" y="355"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="142" y="355"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class=' decal keycap'
-  >
-
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="271" y="352"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="271" y="352"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="277" y="355"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="277" y="355"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="730" y="352"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="730" y="352"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="736" y="355"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="736" y="355"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class=' decal keycap'
-  >
-
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="865" y="352"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="865" y="352"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="871" y="355"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="871" y="355"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class=' decal keycap'
-  >
-
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="217" y="406"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="217" y="406"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="223" y="409"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="223" y="409"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="271" y="406"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="271" y="406"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="277" y="409"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="277" y="409"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="730" y="406"
-          width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="730" y="406"
-          width="79" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="736" y="409"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="736" y="409"
-            width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="811" y="406"
-          width="52" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="811" y="406"
-          width="52" height="52"
-          rx="5" fill="#cccccc"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="817" y="409"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="817" y="409"
-            width="40" height="40"
-            rx="5" fill="#fcfcfc"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class=' decal keycap'
-  >
-
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="352" y="487"
-          width="160" height="52"
-          rx="5" fill="#69b519" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="352" y="487"
-          width="160" height="52"
-          rx="5" fill="#69b519"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="358" y="490"
-            width="148" height="40"
-            rx="5" fill="#91dc46" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="358" y="490"
-            width="148" height="40"
-            rx="5" fill="#91dc46"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="514" y="487"
-          width="52" height="52"
-          rx="5" fill="#69b519" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="514" y="487"
-          width="52" height="52"
-          rx="5" fill="#69b519"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="520" y="490"
-            width="40" height="40"
-            rx="5" fill="#91dc46" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="520" y="490"
-            width="40" height="40"
-            rx="5" fill="#91dc46"/>
-      
-      
-
-     
-   
-  </g>
-
-  <g class='  keycap'
-  >
-
-  
-    <!-- Outer Border -->
-    <rect x="568" y="487"
-          width="160" height="52"
-          rx="5" fill="#69b519" class="outer border"/>
-    
-    <!-- Outer Fill -->
-    <rect x="568" y="487"
-          width="160" height="52"
-          rx="5" fill="#69b519"/>
-    
-
-    
-      <!-- Inner Border -->
-      <rect x="574" y="490"
-            width="148" height="40"
-            rx="5" fill="#91dc46" class="inner border"/>
-      
-      <!-- Inner Fill -->
-      <rect x="574" y="490"
-            width="148" height="40"
-            rx="5" fill="#91dc46"/>
-      
-      
-
-     
-   
-  </g>
-
+  <defs
+     id="defs11">
+    <linearGradient
+       id="DCS">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop1" />
+      <stop
+         offset="40%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop2" />
+      <stop
+         offset="60%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop3" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="SPACE"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop5" />
+      <stop
+         offset="20%"
+         stop-color="black"
+         stop-opacity="0.0"
+         id="stop6" />
+      <stop
+         offset="40%"
+         stop-color="black"
+         stop-opacity="0.0"
+         id="stop7" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop8" />
+    </linearGradient>
+    <radialGradient
+       id="DSA">
+      <stop
+         offset="0%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop9" />
+      <stop
+         offset="10%"
+         stop-color="black"
+         stop-opacity="0.1"
+         id="stop10" />
+      <stop
+         offset="100%"
+         stop-color="black"
+         stop-opacity="0"
+         id="stop11" />
+    </radialGradient>
+    <radialGradient
+       id="SA"
+       xlink:href="#DSA" />
+  </defs>
+  <g
+     transform="translate(10,10)"
+     id="g335">
+    <rect
+       width="1090"
+       height="550"
+       stroke="#dddddd"
+       stroke-width="1"
+       fill="#eeeeee"
+       rx="6"
+       id="rect11"
+       x="0"
+       y="0"
+       style="display:inline" />
+    <g
+       transform="translate(5,5)"
+       id="g334">
+      <g
+         class="  keycap"
+         id="g15">
+        <!-- Outer Border -->
+        <rect
+           x="838"
+           y="1"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#e2aaff"
+           class="outer border"
+           id="rect12" />
+        <!-- Outer Fill -->
+        <rect
+           x="838"
+           y="1"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#e2aaff"
+           id="rect13" />
+        <!-- Inner Border -->
+        <rect
+           x="844"
+           y="4"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#ffd7ff"
+           class="inner border"
+           id="rect14" />
+        <!-- Inner Fill -->
+        <rect
+           x="844"
+           y="4"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#ffd7ff"
+           id="rect15" />
+      </g>
+      <g
+         class="  keycap"
+         id="g19">
+        <!-- Outer Border -->
+        <rect
+           x="892"
+           y="1"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#e2aaff"
+           class="outer border"
+           id="rect16" />
+        <!-- Outer Fill -->
+        <rect
+           x="892"
+           y="1"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#e2aaff"
+           id="rect17" />
+        <!-- Inner Border -->
+        <rect
+           x="898"
+           y="4"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#ffd7ff"
+           class="inner border"
+           id="rect18" />
+        <!-- Inner Fill -->
+        <rect
+           x="898"
+           y="4"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#ffd7ff"
+           id="rect19" />
+      </g>
+      <g
+         class="  keycap"
+         id="g23">
+        <!-- Outer Border -->
+        <rect
+           x="136"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect20" />
+        <!-- Outer Fill -->
+        <rect
+           x="136"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect21" />
+        <!-- Inner Border -->
+        <rect
+           x="142"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect22" />
+        <!-- Inner Fill -->
+        <rect
+           x="142"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect23" />
+      </g>
+      <g
+         class="  keycap"
+         id="g27">
+        <!-- Outer Border -->
+        <rect
+           x="190"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect24" />
+        <!-- Outer Fill -->
+        <rect
+           x="190"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect25" />
+        <!-- Inner Border -->
+        <rect
+           x="196"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect26" />
+        <!-- Inner Fill -->
+        <rect
+           x="196"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect27" />
+      </g>
+      <g
+         class="  keycap"
+         id="g31">
+        <!-- Outer Border -->
+        <rect
+           x="244"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect28" />
+        <!-- Outer Fill -->
+        <rect
+           x="244"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect29" />
+        <!-- Inner Border -->
+        <rect
+           x="250"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect30" />
+        <!-- Inner Fill -->
+        <rect
+           x="250"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect31" />
+      </g>
+      <g
+         class="  keycap"
+         id="g35">
+        <!-- Outer Border -->
+        <rect
+           x="298"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect32" />
+        <!-- Outer Fill -->
+        <rect
+           x="298"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect33" />
+        <!-- Inner Border -->
+        <rect
+           x="304"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect34" />
+        <!-- Inner Fill -->
+        <rect
+           x="304"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect35" />
+      </g>
+      <g
+         class="  keycap"
+         id="g39">
+        <!-- Outer Border -->
+        <rect
+           x="352"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect36" />
+        <!-- Outer Fill -->
+        <rect
+           x="352"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect37" />
+        <!-- Inner Border -->
+        <rect
+           x="358"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect38" />
+        <!-- Inner Fill -->
+        <rect
+           x="358"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect39" />
+      </g>
+      <g
+         class="  keycap"
+         id="g43">
+        <!-- Outer Border -->
+        <rect
+           x="406"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect40" />
+        <!-- Outer Fill -->
+        <rect
+           x="406"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect41" />
+        <!-- Inner Border -->
+        <rect
+           x="412"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect42" />
+        <!-- Inner Fill -->
+        <rect
+           x="412"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect43" />
+      </g>
+      <g
+         class="  keycap"
+         id="g47">
+        <!-- Outer Border -->
+        <rect
+           x="460"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect44" />
+        <!-- Outer Fill -->
+        <rect
+           x="460"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect45" />
+        <!-- Inner Border -->
+        <rect
+           x="466"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect46" />
+        <!-- Inner Fill -->
+        <rect
+           x="466"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect47" />
+      </g>
+      <g
+         class="  keycap"
+         id="g51">
+        <!-- Outer Border -->
+        <rect
+           x="514"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect48" />
+        <!-- Outer Fill -->
+        <rect
+           x="514"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect49" />
+        <!-- Inner Border -->
+        <rect
+           x="520"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect50" />
+        <!-- Inner Fill -->
+        <rect
+           x="520"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect51" />
+      </g>
+      <g
+         class="  keycap"
+         id="g55">
+        <!-- Outer Border -->
+        <rect
+           x="568"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect52" />
+        <!-- Outer Fill -->
+        <rect
+           x="568"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect53" />
+        <!-- Inner Border -->
+        <rect
+           x="574"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect54" />
+        <!-- Inner Fill -->
+        <rect
+           x="574"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect55" />
+      </g>
+      <g
+         class="  keycap"
+         id="g59">
+        <!-- Outer Border -->
+        <rect
+           x="622"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect56" />
+        <!-- Outer Fill -->
+        <rect
+           x="622"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect57" />
+        <!-- Inner Border -->
+        <rect
+           x="628"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect58" />
+        <!-- Inner Fill -->
+        <rect
+           x="628"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect59" />
+      </g>
+      <g
+         class="  keycap"
+         id="g63">
+        <!-- Outer Border -->
+        <rect
+           x="676"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect60" />
+        <!-- Outer Fill -->
+        <rect
+           x="676"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect61" />
+        <!-- Inner Border -->
+        <rect
+           x="682"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect62" />
+        <!-- Inner Fill -->
+        <rect
+           x="682"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect63" />
+      </g>
+      <g
+         class="  keycap"
+         id="g67">
+        <!-- Outer Border -->
+        <rect
+           x="730"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect64" />
+        <!-- Outer Fill -->
+        <rect
+           x="730"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect65" />
+        <!-- Inner Border -->
+        <rect
+           x="736"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect66" />
+        <!-- Inner Fill -->
+        <rect
+           x="736"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect67" />
+      </g>
+      <g
+         class="  keycap"
+         id="g71">
+        <!-- Outer Border -->
+        <rect
+           x="784"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect68" />
+        <!-- Outer Fill -->
+        <rect
+           x="784"
+           y="68.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect69" />
+        <!-- Inner Border -->
+        <rect
+           x="790"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect70" />
+        <!-- Inner Fill -->
+        <rect
+           x="790"
+           y="71.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect71" />
+      </g>
+      <g
+         class="  keycap"
+         id="g75">
+        <!-- Outer Border -->
+        <rect
+           x="838"
+           y="68.5"
+           width="106"
+           height="52"
+           rx="5"
+           fill="#7203ba"
+           class="outer border"
+           id="rect72" />
+        <!-- Outer Fill -->
+        <rect
+           x="838"
+           y="68.5"
+           width="106"
+           height="52"
+           rx="5"
+           fill="#7203ba"
+           id="rect73" />
+        <!-- Inner Border -->
+        <rect
+           x="844"
+           y="71.5"
+           width="94"
+           height="40"
+           rx="5"
+           fill="#8523cd"
+           class="inner border"
+           id="rect74" />
+        <!-- Inner Fill -->
+        <rect
+           x="844"
+           y="71.5"
+           width="94"
+           height="40"
+           rx="5"
+           fill="#8523cd"
+           id="rect75" />
+      </g>
+      <g
+         class="  keycap"
+         id="g79">
+        <!-- Outer Border -->
+        <rect
+           x="136"
+           y="122.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect76" />
+        <!-- Outer Fill -->
+        <rect
+           x="136"
+           y="122.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect77" />
+        <!-- Inner Border -->
+        <rect
+           x="142"
+           y="125.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect78" />
+        <!-- Inner Fill -->
+        <rect
+           x="142"
+           y="125.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect79" />
+      </g>
+      <g
+         class="  keycap"
+         id="g83">
+        <!-- Outer Border -->
+        <rect
+           x="217"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect80" />
+        <!-- Outer Fill -->
+        <rect
+           x="217"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect81" />
+        <!-- Inner Border -->
+        <rect
+           x="223"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect82" />
+        <!-- Inner Fill -->
+        <rect
+           x="223"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect83" />
+      </g>
+      <g
+         class="  keycap"
+         id="g87">
+        <!-- Outer Border -->
+        <rect
+           x="271"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect84" />
+        <!-- Outer Fill -->
+        <rect
+           x="271"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect85" />
+        <!-- Inner Border -->
+        <rect
+           x="277"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect86" />
+        <!-- Inner Fill -->
+        <rect
+           x="277"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect87" />
+      </g>
+      <g
+         class="  keycap"
+         id="g91">
+        <!-- Outer Border -->
+        <rect
+           x="325"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect88" />
+        <!-- Outer Fill -->
+        <rect
+           x="325"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect89" />
+        <!-- Inner Border -->
+        <rect
+           x="331"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect90" />
+        <!-- Inner Fill -->
+        <rect
+           x="331"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect91" />
+      </g>
+      <g
+         class="  keycap"
+         id="g95">
+        <!-- Outer Border -->
+        <rect
+           x="379"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect92" />
+        <!-- Outer Fill -->
+        <rect
+           x="379"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect93" />
+        <!-- Inner Border -->
+        <rect
+           x="385"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect94" />
+        <!-- Inner Fill -->
+        <rect
+           x="385"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect95" />
+      </g>
+      <g
+         class="  keycap"
+         id="g99">
+        <!-- Outer Border -->
+        <rect
+           x="433"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect96" />
+        <!-- Outer Fill -->
+        <rect
+           x="433"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect97" />
+        <!-- Inner Border -->
+        <rect
+           x="439"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect98" />
+        <!-- Inner Fill -->
+        <rect
+           x="439"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect99" />
+      </g>
+      <g
+         class="  keycap"
+         id="g103">
+        <!-- Outer Border -->
+        <rect
+           x="487"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect100" />
+        <!-- Outer Fill -->
+        <rect
+           x="487"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect101" />
+        <!-- Inner Border -->
+        <rect
+           x="493"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect102" />
+        <!-- Inner Fill -->
+        <rect
+           x="493"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect103" />
+      </g>
+      <g
+         class="  keycap"
+         id="g107">
+        <!-- Outer Border -->
+        <rect
+           x="541"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect104" />
+        <!-- Outer Fill -->
+        <rect
+           x="541"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect105" />
+        <!-- Inner Border -->
+        <rect
+           x="547"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect106" />
+        <!-- Inner Fill -->
+        <rect
+           x="547"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect107" />
+      </g>
+      <g
+         class="  keycap"
+         id="g111">
+        <!-- Outer Border -->
+        <rect
+           x="595"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect108" />
+        <!-- Outer Fill -->
+        <rect
+           x="595"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect109" />
+        <!-- Inner Border -->
+        <rect
+           x="601"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect110" />
+        <!-- Inner Fill -->
+        <rect
+           x="601"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect111" />
+      </g>
+      <g
+         class="  keycap"
+         id="g115">
+        <!-- Outer Border -->
+        <rect
+           x="649"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect112" />
+        <!-- Outer Fill -->
+        <rect
+           x="649"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect113" />
+        <!-- Inner Border -->
+        <rect
+           x="655"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect114" />
+        <!-- Inner Fill -->
+        <rect
+           x="655"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect115" />
+      </g>
+      <g
+         class="  keycap"
+         id="g119">
+        <!-- Outer Border -->
+        <rect
+           x="703"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect116" />
+        <!-- Outer Fill -->
+        <rect
+           x="703"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect117" />
+        <!-- Inner Border -->
+        <rect
+           x="709"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect118" />
+        <!-- Inner Fill -->
+        <rect
+           x="709"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect119" />
+      </g>
+      <g
+         class="  keycap"
+         id="g123">
+        <!-- Outer Border -->
+        <rect
+           x="757"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect120" />
+        <!-- Outer Fill -->
+        <rect
+           x="757"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect121" />
+        <!-- Inner Border -->
+        <rect
+           x="763"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect122" />
+        <!-- Inner Fill -->
+        <rect
+           x="763"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect123" />
+      </g>
+      <g
+         class="  keycap"
+         id="g127">
+        <!-- Outer Border -->
+        <rect
+           x="811"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect124" />
+        <!-- Outer Fill -->
+        <rect
+           x="811"
+           y="122.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect125" />
+        <!-- Inner Border -->
+        <rect
+           x="817"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect126" />
+        <!-- Inner Fill -->
+        <rect
+           x="817"
+           y="125.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect127" />
+      </g>
+      <g
+         class="  keycap"
+         id="g131">
+        <!-- Outer Border -->
+        <rect
+           x="865"
+           y="122.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect128" />
+        <!-- Outer Fill -->
+        <rect
+           x="865"
+           y="122.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect129" />
+        <!-- Inner Border -->
+        <rect
+           x="871"
+           y="125.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect130" />
+        <!-- Inner Fill -->
+        <rect
+           x="871"
+           y="125.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect131" />
+      </g>
+      <g
+         class="  keycap"
+         id="g139">
+        <!-- Outer Border -->
+        <rect
+           x="1013.5"
+           y="122.5"
+           width="65.5"
+           height="106"
+           rx="5"
+           fill="#89a2e5"
+           class="outer border"
+           id="rect132" />
+        <rect
+           x="1000"
+           y="122.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#89a2e5"
+           class="outer border"
+           id="rect133" />
+        <!-- Outer Fill -->
+        <rect
+           x="1013.5"
+           y="122.5"
+           width="65.5"
+           height="106"
+           rx="5"
+           fill="#89a2e5"
+           id="rect134" />
+        <rect
+           x="1000"
+           y="122.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#89a2e5"
+           id="rect135" />
+        <!-- Inner Border -->
+        <rect
+           x="1019.5"
+           y="125.5"
+           width="53.5"
+           height="94"
+           rx="5"
+           fill="#b0c8ff"
+           class="inner border"
+           id="rect136" />
+        <rect
+           x="1006"
+           y="125.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#b0c8ff"
+           class="inner border"
+           id="rect137" />
+        <!-- Inner Fill -->
+        <rect
+           x="1019.5"
+           y="125.5"
+           width="53.5"
+           height="94"
+           rx="5"
+           fill="#b0c8ff"
+           id="rect138" />
+        <rect
+           x="1006"
+           y="125.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#b0c8ff"
+           id="rect139" />
+      </g>
+      <g
+         class="  keycap"
+         id="g145">
+        <!-- Outer Border -->
+        <rect
+           x="1"
+           y="176.5"
+           width="65.5"
+           height="52"
+           rx="5"
+           fill="#ef7272"
+           class="outer border"
+           id="rect140" />
+        <rect
+           x="1"
+           y="176.5"
+           width="92.5"
+           height="52"
+           rx="5"
+           fill="#ef7272"
+           class="outer border"
+           id="rect141" />
+        <!-- Outer Fill -->
+        <rect
+           x="1"
+           y="176.5"
+           width="65.5"
+           height="52"
+           rx="5"
+           fill="#ef7272"
+           id="rect142" />
+        <rect
+           x="1"
+           y="176.5"
+           width="92.5"
+           height="52"
+           rx="5"
+           fill="#ef7272"
+           id="rect143" />
+        <!-- Inner Border -->
+        <rect
+           x="7"
+           y="179.5"
+           width="53.5"
+           height="40"
+           rx="5"
+           fill="#ff9693"
+           class="inner border"
+           id="rect144" />
+        <!-- Inner Fill -->
+        <rect
+           x="7"
+           y="179.5"
+           width="53.5"
+           height="40"
+           rx="5"
+           fill="#ff9693"
+           id="rect145" />
+      </g>
+      <g
+         class="  keycap"
+         id="g149">
+        <!-- Outer Border -->
+        <rect
+           x="136"
+           y="176.5"
+           width="92.5"
+           height="52"
+           rx="5"
+           fill="#7203ba"
+           class="outer border"
+           id="rect146" />
+        <!-- Outer Fill -->
+        <rect
+           x="136"
+           y="176.5"
+           width="92.5"
+           height="52"
+           rx="5"
+           fill="#7203ba"
+           id="rect147" />
+        <!-- Inner Border -->
+        <rect
+           x="142"
+           y="179.5"
+           width="80.5"
+           height="40"
+           rx="5"
+           fill="#8523cd"
+           class="inner border"
+           id="rect148" />
+        <!-- Inner Fill -->
+        <rect
+           x="142"
+           y="179.5"
+           width="80.5"
+           height="40"
+           rx="5"
+           fill="#8523cd"
+           id="rect149" />
+      </g>
+      <g
+         class="  keycap"
+         id="g153">
+        <!-- Outer Border -->
+        <rect
+           x="230.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect150" />
+        <!-- Outer Fill -->
+        <rect
+           x="230.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect151" />
+        <!-- Inner Border -->
+        <rect
+           x="236.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect152" />
+        <!-- Inner Fill -->
+        <rect
+           x="236.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect153" />
+      </g>
+      <g
+         class="  keycap"
+         id="g157">
+        <!-- Outer Border -->
+        <rect
+           x="284.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect154" />
+        <!-- Outer Fill -->
+        <rect
+           x="284.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect155" />
+        <!-- Inner Border -->
+        <rect
+           x="290.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect156" />
+        <!-- Inner Fill -->
+        <rect
+           x="290.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect157" />
+      </g>
+      <g
+         class="  keycap"
+         id="g161">
+        <!-- Outer Border -->
+        <rect
+           x="338.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect158" />
+        <!-- Outer Fill -->
+        <rect
+           x="338.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect159" />
+        <!-- Inner Border -->
+        <rect
+           x="344.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect160" />
+        <!-- Inner Fill -->
+        <rect
+           x="344.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect161" />
+      </g>
+      <g
+         class="  keycap"
+         id="g165">
+        <!-- Outer Border -->
+        <rect
+           x="392.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect162" />
+        <!-- Outer Fill -->
+        <rect
+           x="392.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect163" />
+        <!-- Inner Border -->
+        <rect
+           x="398.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect164" />
+        <!-- Inner Fill -->
+        <rect
+           x="398.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect165" />
+      </g>
+      <g
+         class="  keycap"
+         id="g169">
+        <!-- Outer Border -->
+        <rect
+           x="446.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect166" />
+        <!-- Outer Fill -->
+        <rect
+           x="446.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect167" />
+        <!-- Inner Border -->
+        <rect
+           x="452.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect168" />
+        <!-- Inner Fill -->
+        <rect
+           x="452.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect169" />
+      </g>
+      <g
+         class="  keycap"
+         id="g173">
+        <!-- Outer Border -->
+        <rect
+           x="500.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect170" />
+        <!-- Outer Fill -->
+        <rect
+           x="500.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect171" />
+        <!-- Inner Border -->
+        <rect
+           x="506.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect172" />
+        <!-- Inner Fill -->
+        <rect
+           x="506.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect173" />
+      </g>
+      <g
+         class="  keycap"
+         id="g177">
+        <!-- Outer Border -->
+        <rect
+           x="554.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect174" />
+        <!-- Outer Fill -->
+        <rect
+           x="554.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect175" />
+        <!-- Inner Border -->
+        <rect
+           x="560.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect176" />
+        <!-- Inner Fill -->
+        <rect
+           x="560.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect177" />
+      </g>
+      <g
+         class="  keycap"
+         id="g181">
+        <!-- Outer Border -->
+        <rect
+           x="608.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect178" />
+        <!-- Outer Fill -->
+        <rect
+           x="608.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect179" />
+        <!-- Inner Border -->
+        <rect
+           x="614.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect180" />
+        <!-- Inner Fill -->
+        <rect
+           x="614.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect181" />
+      </g>
+      <g
+         class="  keycap"
+         id="g185">
+        <!-- Outer Border -->
+        <rect
+           x="662.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect182" />
+        <!-- Outer Fill -->
+        <rect
+           x="662.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect183" />
+        <!-- Inner Border -->
+        <rect
+           x="668.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect184" />
+        <!-- Inner Fill -->
+        <rect
+           x="668.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect185" />
+      </g>
+      <g
+         class="  keycap"
+         id="g189">
+        <!-- Outer Border -->
+        <rect
+           x="716.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect186" />
+        <!-- Outer Fill -->
+        <rect
+           x="716.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect187" />
+        <!-- Inner Border -->
+        <rect
+           x="722.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect188" />
+        <!-- Inner Fill -->
+        <rect
+           x="722.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect189" />
+      </g>
+      <g
+         class="  keycap"
+         id="g193">
+        <!-- Outer Border -->
+        <rect
+           x="770.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect190" />
+        <!-- Outer Fill -->
+        <rect
+           x="770.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect191" />
+        <!-- Inner Border -->
+        <rect
+           x="776.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect192" />
+        <!-- Inner Fill -->
+        <rect
+           x="776.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect193" />
+      </g>
+      <g
+         class="  keycap"
+         id="g197">
+        <!-- Outer Border -->
+        <rect
+           x="824.5"
+           y="176.5"
+           width="119.5"
+           height="52"
+           rx="5"
+           fill="#7203ba"
+           class="outer border"
+           id="rect194" />
+        <!-- Outer Fill -->
+        <rect
+           x="824.5"
+           y="176.5"
+           width="119.5"
+           height="52"
+           rx="5"
+           fill="#7203ba"
+           id="rect195" />
+        <!-- Inner Border -->
+        <rect
+           x="830.5"
+           y="179.5"
+           width="107.5"
+           height="40"
+           rx="5"
+           fill="#8523cd"
+           class="inner border"
+           id="rect196" />
+        <!-- Inner Fill -->
+        <rect
+           x="830.5"
+           y="179.5"
+           width="107.5"
+           height="40"
+           rx="5"
+           fill="#8523cd"
+           id="rect197" />
+      </g>
+      <g
+         class="  keycap"
+         id="g201">
+        <!-- Outer Border -->
+        <rect
+           x="959.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#89a2e5"
+           class="outer border"
+           id="rect198" />
+        <!-- Outer Fill -->
+        <rect
+           x="959.5"
+           y="176.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#89a2e5"
+           id="rect199" />
+        <!-- Inner Border -->
+        <rect
+           x="965.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#b0c8ff"
+           class="inner border"
+           id="rect200" />
+        <!-- Inner Fill -->
+        <rect
+           x="965.5"
+           y="179.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#b0c8ff"
+           id="rect201" />
+      </g>
+      <g
+         class="  keycap"
+         id="g205">
+        <!-- Outer Border -->
+        <rect
+           x="1"
+           y="230.5"
+           width="65.5"
+           height="52"
+           rx="5"
+           fill="#e5a922"
+           class="outer border"
+           id="rect202"
+           style="fill:#b0c8ff;fill-opacity:1" />
+        <!-- Outer Fill -->
+        <rect
+           x="1"
+           y="230.5"
+           width="65.5"
+           height="52"
+           rx="5"
+           fill="#e5a922"
+           id="rect203"
+           style="fill:#89a2e5;fill-opacity:1" />
+        <!-- Inner Border -->
+        <rect
+           x="7"
+           y="233.5"
+           width="53.5"
+           height="40"
+           rx="5"
+           fill="#ffd250"
+           class="inner border"
+           id="rect204"
+           style="fill:#89a2e5;fill-opacity:1" />
+        <!-- Inner Fill -->
+        <rect
+           x="7"
+           y="233.5"
+           width="53.5"
+           height="40"
+           rx="5"
+           fill="#ffd250"
+           id="rect205"
+           style="fill:#b0c8ff;fill-opacity:1" />
+      </g>
+      <g
+         class="  keycap"
+         id="g209">
+        <!-- Outer Border -->
+        <rect
+           x="68.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#e5a922"
+           class="outer border"
+           id="rect206"
+           style="fill:#b0c8ff;fill-opacity:1" />
+        <!-- Outer Fill -->
+        <rect
+           x="68.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#e5a922"
+           id="rect207"
+           style="fill:#89a2e5;fill-opacity:1" />
+        <!-- Inner Border -->
+        <rect
+           x="74.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#ffd250"
+           class="inner border"
+           id="rect208"
+           style="fill:#89a2e5;fill-opacity:1" />
+        <!-- Inner Fill -->
+        <rect
+           x="74.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#ffd250"
+           id="rect209"
+           style="fill:#b0c8ff;fill-opacity:1" />
+      </g>
+      <g
+         class="  keycap"
+         id="g213">
+        <!-- Outer Border -->
+        <rect
+           x="136"
+           y="230.5"
+           width="119.5"
+           height="52"
+           rx="5"
+           fill="#7203ba"
+           class="outer border"
+           id="rect210" />
+        <!-- Outer Fill -->
+        <rect
+           x="136"
+           y="230.5"
+           width="119.5"
+           height="52"
+           rx="5"
+           fill="#7203ba"
+           id="rect211" />
+        <!-- Inner Border -->
+        <rect
+           x="142"
+           y="233.5"
+           width="107.5"
+           height="40"
+           rx="5"
+           fill="#8523cd"
+           class="inner border"
+           id="rect212" />
+        <!-- Inner Fill -->
+        <rect
+           x="142"
+           y="233.5"
+           width="107.5"
+           height="40"
+           rx="5"
+           fill="#8523cd"
+           id="rect213" />
+      </g>
+      <g
+         class="  keycap"
+         id="g217">
+        <!-- Outer Border -->
+        <rect
+           x="257.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect214" />
+        <!-- Outer Fill -->
+        <rect
+           x="257.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect215" />
+        <!-- Inner Border -->
+        <rect
+           x="263.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect216" />
+        <!-- Inner Fill -->
+        <rect
+           x="263.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect217" />
+      </g>
+      <g
+         class="  keycap"
+         id="g221">
+        <!-- Outer Border -->
+        <rect
+           x="311.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect218" />
+        <!-- Outer Fill -->
+        <rect
+           x="311.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect219" />
+        <!-- Inner Border -->
+        <rect
+           x="317.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect220" />
+        <!-- Inner Fill -->
+        <rect
+           x="317.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect221" />
+      </g>
+      <g
+         class="  keycap"
+         id="g225">
+        <!-- Outer Border -->
+        <rect
+           x="365.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect222" />
+        <!-- Outer Fill -->
+        <rect
+           x="365.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect223" />
+        <!-- Inner Border -->
+        <rect
+           x="371.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect224" />
+        <!-- Inner Fill -->
+        <rect
+           x="371.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect225" />
+      </g>
+      <g
+         class="  keycap"
+         id="g229">
+        <!-- Outer Border -->
+        <rect
+           x="419.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect226" />
+        <!-- Outer Fill -->
+        <rect
+           x="419.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect227" />
+        <!-- Inner Border -->
+        <rect
+           x="425.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect228" />
+        <!-- Inner Fill -->
+        <rect
+           x="425.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect229" />
+      </g>
+      <g
+         class="  keycap"
+         id="g233">
+        <!-- Outer Border -->
+        <rect
+           x="473.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect230" />
+        <!-- Outer Fill -->
+        <rect
+           x="473.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect231" />
+        <!-- Inner Border -->
+        <rect
+           x="479.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect232" />
+        <!-- Inner Fill -->
+        <rect
+           x="479.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect233" />
+      </g>
+      <g
+         class="  keycap"
+         id="g237">
+        <!-- Outer Border -->
+        <rect
+           x="527.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect234" />
+        <!-- Outer Fill -->
+        <rect
+           x="527.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect235" />
+        <!-- Inner Border -->
+        <rect
+           x="533.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect236" />
+        <!-- Inner Fill -->
+        <rect
+           x="533.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect237" />
+      </g>
+      <g
+         class="  keycap"
+         id="g241">
+        <!-- Outer Border -->
+        <rect
+           x="581.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect238" />
+        <!-- Outer Fill -->
+        <rect
+           x="581.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect239" />
+        <!-- Inner Border -->
+        <rect
+           x="587.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect240" />
+        <!-- Inner Fill -->
+        <rect
+           x="587.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect241" />
+      </g>
+      <g
+         class="  keycap"
+         id="g245">
+        <!-- Outer Border -->
+        <rect
+           x="635.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect242" />
+        <!-- Outer Fill -->
+        <rect
+           x="635.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect243" />
+        <!-- Inner Border -->
+        <rect
+           x="641.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect244" />
+        <!-- Inner Fill -->
+        <rect
+           x="641.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect245" />
+      </g>
+      <g
+         class="  keycap"
+         id="g249">
+        <!-- Outer Border -->
+        <rect
+           x="689.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect246" />
+        <!-- Outer Fill -->
+        <rect
+           x="689.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect247" />
+        <!-- Inner Border -->
+        <rect
+           x="695.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect248" />
+        <!-- Inner Fill -->
+        <rect
+           x="695.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect249" />
+      </g>
+      <g
+         class="  keycap"
+         id="g253">
+        <!-- Outer Border -->
+        <rect
+           x="743.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect250" />
+        <!-- Outer Fill -->
+        <rect
+           x="743.5"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect251" />
+        <!-- Inner Border -->
+        <rect
+           x="749.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect252" />
+        <!-- Inner Fill -->
+        <rect
+           x="749.5"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect253" />
+      </g>
+      <g
+         class="  keycap"
+         id="g257">
+        <!-- Outer Border -->
+        <rect
+           x="797.5"
+           y="230.5"
+           width="92.5"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect254" />
+        <!-- Outer Fill -->
+        <rect
+           x="797.5"
+           y="230.5"
+           width="92.5"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect255" />
+        <!-- Inner Border -->
+        <rect
+           x="803.5"
+           y="233.5"
+           width="80.5"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect256" />
+        <!-- Inner Fill -->
+        <rect
+           x="803.5"
+           y="233.5"
+           width="80.5"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect257" />
+      </g>
+      <g
+         class="  keycap"
+         id="g261">
+        <!-- Outer Border -->
+        <rect
+           x="892"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect258" />
+        <!-- Outer Fill -->
+        <rect
+           x="892"
+           y="230.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect259" />
+        <!-- Inner Border -->
+        <rect
+           x="898"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect260" />
+        <!-- Inner Fill -->
+        <rect
+           x="898"
+           y="233.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect261" />
+      </g>
+      <g
+         class="  keycap"
+         id="g265">
+        <!-- Outer Border -->
+        <rect
+           x="136"
+           y="284.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect262" />
+        <!-- Outer Fill -->
+        <rect
+           x="136"
+           y="284.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect263" />
+        <!-- Inner Border -->
+        <rect
+           x="142"
+           y="287.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect264" />
+        <!-- Inner Fill -->
+        <rect
+           x="142"
+           y="287.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect265" />
+      </g>
+      <g
+         class="  keycap"
+         id="g269">
+        <!-- Outer Border -->
+        <rect
+           x="217"
+           y="284.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect266" />
+        <!-- Outer Fill -->
+        <rect
+           x="217"
+           y="284.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect267" />
+        <!-- Inner Border -->
+        <rect
+           x="223"
+           y="287.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect268" />
+        <!-- Inner Fill -->
+        <rect
+           x="223"
+           y="287.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect269" />
+      </g>
+      <g
+         class="  keycap"
+         id="g273">
+        <!-- Outer Border -->
+        <rect
+           x="271"
+           y="284.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect270" />
+        <!-- Outer Fill -->
+        <rect
+           x="271"
+           y="284.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect271" />
+        <!-- Inner Border -->
+        <rect
+           x="277"
+           y="287.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect272" />
+        <!-- Inner Fill -->
+        <rect
+           x="277"
+           y="287.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect273" />
+      </g>
+      <g
+         class="  keycap"
+         id="g277">
+        <!-- Outer Border -->
+        <rect
+           x="352"
+           y="284.5"
+           width="376"
+           height="52"
+           rx="5"
+           fill="#7203ba"
+           class="outer border"
+           id="rect274" />
+        <!-- Outer Fill -->
+        <rect
+           x="352"
+           y="284.5"
+           width="376"
+           height="52"
+           rx="5"
+           fill="#7203ba"
+           id="rect275" />
+        <!-- Inner Border -->
+        <rect
+           x="358"
+           y="287.5"
+           width="364"
+           height="40"
+           rx="5"
+           fill="#8523cd"
+           class="inner border"
+           id="rect276" />
+        <!-- Inner Fill -->
+        <rect
+           x="358"
+           y="287.5"
+           width="364"
+           height="40"
+           rx="5"
+           fill="#8523cd"
+           id="rect277" />
+      </g>
+      <g
+         class="  keycap"
+         id="g281">
+        <!-- Outer Border -->
+        <rect
+           x="730"
+           y="284.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect278" />
+        <!-- Outer Fill -->
+        <rect
+           x="730"
+           y="284.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect279" />
+        <!-- Inner Border -->
+        <rect
+           x="736"
+           y="287.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect280" />
+        <!-- Inner Fill -->
+        <rect
+           x="736"
+           y="287.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect281" />
+      </g>
+      <g
+         class="  keycap"
+         id="g285">
+        <!-- Outer Border -->
+        <rect
+           x="811"
+           y="284.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect282" />
+        <!-- Outer Fill -->
+        <rect
+           x="811"
+           y="284.5"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect283" />
+        <!-- Inner Border -->
+        <rect
+           x="817"
+           y="287.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect284" />
+        <!-- Inner Fill -->
+        <rect
+           x="817"
+           y="287.5"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect285" />
+      </g>
+      <g
+         class="  keycap"
+         id="g289">
+        <!-- Outer Border -->
+        <rect
+           x="865"
+           y="284.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect286" />
+        <!-- Outer Fill -->
+        <rect
+           x="865"
+           y="284.5"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect287" />
+        <!-- Inner Border -->
+        <rect
+           x="871"
+           y="287.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect288" />
+        <!-- Inner Fill -->
+        <rect
+           x="871"
+           y="287.5"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect289" />
+      </g>
+      <g
+         class="  keycap"
+         id="g293">
+        <!-- Outer Border -->
+        <rect
+           x="136"
+           y="352"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect290" />
+        <!-- Outer Fill -->
+        <rect
+           x="136"
+           y="352"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect291" />
+        <!-- Inner Border -->
+        <rect
+           x="142"
+           y="355"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect292" />
+        <!-- Inner Fill -->
+        <rect
+           x="142"
+           y="355"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect293" />
+      </g>
+      <g
+         class=" decal keycap"
+         id="g294" />
+      <g
+         class="  keycap"
+         id="g297">
+        <!-- Outer Border -->
+        <rect
+           x="271"
+           y="352"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect294" />
+        <!-- Outer Fill -->
+        <rect
+           x="271"
+           y="352"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect295" />
+        <!-- Inner Border -->
+        <rect
+           x="277"
+           y="355"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect296" />
+        <!-- Inner Fill -->
+        <rect
+           x="277"
+           y="355"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect297" />
+      </g>
+      <g
+         class="  keycap"
+         id="g301">
+        <!-- Outer Border -->
+        <rect
+           x="730"
+           y="352"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect298" />
+        <!-- Outer Fill -->
+        <rect
+           x="730"
+           y="352"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect299" />
+        <!-- Inner Border -->
+        <rect
+           x="736"
+           y="355"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect300" />
+        <!-- Inner Fill -->
+        <rect
+           x="736"
+           y="355"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect301" />
+      </g>
+      <g
+         class=" decal keycap"
+         id="g302" />
+      <g
+         class="  keycap"
+         id="g305">
+        <!-- Outer Border -->
+        <rect
+           x="865"
+           y="352"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect302" />
+        <!-- Outer Fill -->
+        <rect
+           x="865"
+           y="352"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect303" />
+        <!-- Inner Border -->
+        <rect
+           x="871"
+           y="355"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect304" />
+        <!-- Inner Fill -->
+        <rect
+           x="871"
+           y="355"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect305" />
+      </g>
+      <g
+         class=" decal keycap"
+         id="g306" />
+      <g
+         class="  keycap"
+         id="g309">
+        <!-- Outer Border -->
+        <rect
+           x="217"
+           y="406"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect306" />
+        <!-- Outer Fill -->
+        <rect
+           x="217"
+           y="406"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect307" />
+        <!-- Inner Border -->
+        <rect
+           x="223"
+           y="409"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect308" />
+        <!-- Inner Fill -->
+        <rect
+           x="223"
+           y="409"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect309" />
+      </g>
+      <g
+         class="  keycap"
+         id="g313">
+        <!-- Outer Border -->
+        <rect
+           x="271"
+           y="406"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect310" />
+        <!-- Outer Fill -->
+        <rect
+           x="271"
+           y="406"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect311" />
+        <!-- Inner Border -->
+        <rect
+           x="277"
+           y="409"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect312" />
+        <!-- Inner Fill -->
+        <rect
+           x="277"
+           y="409"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect313" />
+      </g>
+      <g
+         class="  keycap"
+         id="g317">
+        <!-- Outer Border -->
+        <rect
+           x="730"
+           y="406"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect314" />
+        <!-- Outer Fill -->
+        <rect
+           x="730"
+           y="406"
+           width="79"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect315" />
+        <!-- Inner Border -->
+        <rect
+           x="736"
+           y="409"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect316" />
+        <!-- Inner Fill -->
+        <rect
+           x="736"
+           y="409"
+           width="67"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect317" />
+      </g>
+      <g
+         class="  keycap"
+         id="g321">
+        <!-- Outer Border -->
+        <rect
+           x="811"
+           y="406"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           class="outer border"
+           id="rect318" />
+        <!-- Outer Fill -->
+        <rect
+           x="811"
+           y="406"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#cccccc"
+           id="rect319" />
+        <!-- Inner Border -->
+        <rect
+           x="817"
+           y="409"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           class="inner border"
+           id="rect320" />
+        <!-- Inner Fill -->
+        <rect
+           x="817"
+           y="409"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#fcfcfc"
+           id="rect321" />
+      </g>
+      <g
+         class=" decal keycap"
+         id="g322" />
+      <g
+         class="  keycap"
+         id="g325">
+        <!-- Outer Border -->
+        <rect
+           x="352"
+           y="487"
+           width="160"
+           height="52"
+           rx="5"
+           fill="#69b519"
+           class="outer border"
+           id="rect322" />
+        <!-- Outer Fill -->
+        <rect
+           x="352"
+           y="487"
+           width="160"
+           height="52"
+           rx="5"
+           fill="#69b519"
+           id="rect323" />
+        <!-- Inner Border -->
+        <rect
+           x="358"
+           y="490"
+           width="148"
+           height="40"
+           rx="5"
+           fill="#91dc46"
+           class="inner border"
+           id="rect324" />
+        <!-- Inner Fill -->
+        <rect
+           x="358"
+           y="490"
+           width="148"
+           height="40"
+           rx="5"
+           fill="#91dc46"
+           id="rect325" />
+      </g>
+      <g
+         class="  keycap"
+         id="g329">
+        <!-- Outer Border -->
+        <rect
+           x="514"
+           y="487"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#69b519"
+           class="outer border"
+           id="rect326" />
+        <!-- Outer Fill -->
+        <rect
+           x="514"
+           y="487"
+           width="52"
+           height="52"
+           rx="5"
+           fill="#69b519"
+           id="rect327" />
+        <!-- Inner Border -->
+        <rect
+           x="520"
+           y="490"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#91dc46"
+           class="inner border"
+           id="rect328" />
+        <!-- Inner Fill -->
+        <rect
+           x="520"
+           y="490"
+           width="40"
+           height="40"
+           rx="5"
+           fill="#91dc46"
+           id="rect329" />
+      </g>
+      <g
+         class="  keycap"
+         id="g333">
+        <!-- Outer Border -->
+        <rect
+           x="568"
+           y="487"
+           width="160"
+           height="52"
+           rx="5"
+           fill="#69b519"
+           class="outer border"
+           id="rect330" />
+        <!-- Outer Fill -->
+        <rect
+           x="568"
+           y="487"
+           width="160"
+           height="52"
+           rx="5"
+           fill="#69b519"
+           id="rect331" />
+        <!-- Inner Border -->
+        <rect
+           x="574"
+           y="490"
+           width="148"
+           height="40"
+           rx="5"
+           fill="#91dc46"
+           class="inner border"
+           id="rect332" />
+        <!-- Inner Fill -->
+        <rect
+           x="574"
+           y="490"
+           width="148"
+           height="40"
+           rx="5"
+           fill="#91dc46"
+           id="rect333" />
       </g>
     </g>
-  </svg>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Textes">
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:2.646;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.292, 5.292"
+       x="541.74219"
+       y="331.76562"
+       id="text335"><tspan
+         sodipodi:role="line"
+         id="tspan335"
+         x="541.74219"
+         y="331.76562">7u</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:2.646;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.292, 5.292"
+       x="447.14062"
+       y="538.25"
+       id="text336"><tspan
+         sodipodi:role="line"
+         id="tspan336"
+         x="447.14062"
+         y="538.25">3u</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:2.646;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.292, 5.292"
+       x="554.27344"
+       y="537.84375"
+       id="text337"><tspan
+         sodipodi:role="line"
+         id="tspan337"
+         x="554.27344"
+         y="537.84375">1u</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:2.646;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.292, 5.292"
+       x="663.14062"
+       y="538.25"
+       id="text338"><tspan
+         sodipodi:role="line"
+         id="tspan338"
+         x="663.14062"
+         y="538.25">3u</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:2.646;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.292, 5.292"
+       x="140.82794"
+       y="37.70834"
+       id="text339"><tspan
+         sodipodi:role="line"
+         id="tspan339"
+         x="140.82794"
+         y="37.70834"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3333px;font-family:Verdana;-inkscape-font-specification:'Verdana Bold Italic';fill:#939393;fill-opacity:1">HLB60-H (hotswap)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Legende"
+     transform="translate(-4.3914063,72.759015)">
+    <ellipse
+       style="fill:#89a2e5;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+       id="path1"
+       cx="14.498363"
+       cy="371.10822"
+       rx="7.4983625"
+       ry="6.8917823"
+       transform="translate(15,15)" />
+    <ellipse
+       style="fill:#e2aaff;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+       id="path1-9"
+       cx="29.498363"
+       cy="414.23605"
+       rx="7.4983625"
+       ry="6.8917823" />
+    <ellipse
+       style="fill:#ef7272;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+       id="path1-8"
+       cx="29.498363"
+       cy="441.18359"
+       rx="7.4983625"
+       ry="6.8917823" />
+    <ellipse
+       style="fill:#69b519;fill-opacity:1;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke:#000000;stroke-opacity:1;stroke-dashoffset:0"
+       id="path1-2"
+       cx="29.498363"
+       cy="470.37375"
+       rx="7.4983625"
+       ry="6.8917823" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#69b519;fill-opacity:1;stroke-width:2.646;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.292, 5.292"
+       x="55.984001"
+       y="390.9552"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="55.984001"
+         y="390.9552"
+         style="font-size:13.3333px;fill:#514c4c;fill-opacity:1">ISO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#69b519;fill-opacity:1;stroke-width:2.646;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.292, 5.292"
+       x="95.384941"
+       y="418.60428"
+       id="text1-5"
+       inkscape:transform-center-x="-17.075412"
+       inkscape:transform-center-y="14.940985"><tspan
+         sodipodi:role="line"
+         id="tspan1-5"
+         x="95.384941"
+         y="418.60428"
+         style="font-size:13.3333px;fill:#514c4c;fill-opacity:1">Split backspace</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#69b519;fill-opacity:1;stroke-width:2.646;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.292, 5.292"
+       x="101.72282"
+       y="445.82315"
+       id="text1-7"
+       inkscape:transform-center-x="-19.921314"
+       inkscape:transform-center-y="-7.8262304"><tspan
+         sodipodi:role="line"
+         id="tspan1-1"
+         x="101.72282"
+         y="445.82315"
+         style="font-size:13.3333px;fill:#514c4c;fill-opacity:1">Stepped capslock</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#69b519;fill-opacity:1;stroke-width:2.646;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:5.292, 5.292"
+       x="93.155128"
+       y="474.58325"
+       id="text1-52"
+       inkscape:transform-center-x="-9.2491813"
+       inkscape:transform-center-y="15.652461"><tspan
+         sodipodi:role="line"
+         id="tspan1-7"
+         x="93.155128"
+         y="474.58325"
+         style="font-size:13.3333px;text-align:center;text-anchor:middle;fill:#514c4c;fill-opacity:1">Split space bar</tspan></text>
+  </g>
+</svg>
