@@ -71,22 +71,18 @@ You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 ![RedAlert](img/commercial06.jpg)
 ![Yellow](img/commercial07.jpg)
 ![GlacierBlue](img/commercial08.jpg)
-### Polycarbonate top
-![PC_WK](img/commercial00.jpg)
-![PC_WKL](img/commercial01.jpg)
-![PC_HHKB](img/commercial02.jpg)
-
-## Build Guide
-
-You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guide.pdf)
+### Polycarbonate top render with WK layout
+![PC_WK](img/commercial10.jpg)
 
 ## Media
-
 All prototypes made by DDS with pictures and sound test / reviews are listed on the dedicated web page here :
 
 [![HLB PoorKoi 2 multimedia content](img/prototype/HLB_PoorKoi2_PC_Proto-3.jpg)](https://www.oliversphotoblog.com/2025/12/07/hlb-poorkoi-2/ "Go to multimedia content")
 
 ## Files
+### Build Guide
+You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guide.pdf)
+
 ### Plate
 Solder PCB supports full length right shift as well as 10U spacebar with 8U stabilizer.
 You can find 2 versions, the one from base kit and the one with extended compatibilities, both are compatible with PoorKoi v1
