@@ -51,7 +51,7 @@ You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 > Group-buy => estimated january 2026
 
 ### Where
-- EU: DeltaKeyCo.com
+- EU: TBD
 - US: TBD
 - UK: TBD
 - KR: TBD
