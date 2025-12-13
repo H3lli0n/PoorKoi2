@@ -71,6 +71,8 @@ You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 ![RedAlert](img/commercial06.jpg)
 ![Yellow](img/commercial07.jpg)
 ![GlacierBlue](img/commercial08.jpg)
+![BalsamGreen](img/commercial11.jpg)
+![Black](img/commercial12.jpg)
 ### Polycarbonate top render with WK layout
 ![PC_WK](img/commercial10.jpg)
 
