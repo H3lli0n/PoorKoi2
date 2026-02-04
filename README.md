@@ -23,6 +23,8 @@ You can find us on [Discord](https://discord.gg/ZV8Ysf6buB)
   - RGB underglow
   - Capslock / layers indicator
 - Unified DB C5
+- Geon Venom HE compatible with standard plate
+- EC60x EC compatible (Bakeneko JST position) with dedicated plates (see Files section)
 
 Without feet:
 - 18mm front height
@@ -46,9 +48,9 @@ You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 
 > PCB prototypes => done
 
-> GeekHack IC => estimated december 2025
+> GeekHack IC => opened
 
-> Group-buy => estimated january 2026
+> Group-buy => ???
 
 ### Where
 - EU: TBD
@@ -60,6 +62,11 @@ You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 *estimated commercial targets, not final*
 
 ### Changelog
+February 2026
+- Standard plate is now Geon Venom HE compatible
+- We added EC60X compatibility with dedicated ANSI plates
+
+December 2025
 - HLB60 is now our standard pcb and koï fishes are removed from the back
 - Polycarbonate bottom will have 2 koï fishes like the carrying case
 
@@ -89,7 +96,10 @@ You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guid
 Solder PCB supports full length right shift as well as 10U spacebar with 8U stabilizer.
 You can find 2 versions, the one from base kit and the one with extended compatibilities, both are compatible with PoorKoi v1
 
-[Standard plate](files/plate_brass.step)
+[Standard plate no HE](files/plate_brass.step)
+[Standard plate with HE](files/plate_he_compatible.step)
+[EC60x standard ansi plate](files/plate_ec60x_standard_7u_ansi.step)
+[EC60x split backspace ansi plate](files/plate_ec60x_splitbs_7u_ansi.step)
 
 *Extended will be online later*
 
