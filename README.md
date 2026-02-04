@@ -52,15 +52,6 @@ You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 
 > Group-buy => ???
 
-### Where
-- EU: TBD
-- US: TBD
-- UK: TBD
-- KR: TBD
-- CN: TBD
-
-*estimated commercial targets, not final*
-
 ### Changelog
 February 2026
 - Standard plate is now Geon Venom HE compatible
@@ -96,10 +87,10 @@ You can find a simple build guide PDF [Build Guide v1](files/PoorKoi2_Build_Guid
 Solder PCB supports full length right shift as well as 10U spacebar with 8U stabilizer.
 You can find 2 versions, the one from base kit and the one with extended compatibilities, both are compatible with PoorKoi v1
 
-[Standard plate no HE](files/plate_brass.step)
-[Standard plate with HE](files/plate_he_compatible.step)
-[EC60x standard ansi plate](files/plate_ec60x_standard_7u_ansi.step)
-[EC60x split backspace ansi plate](files/plate_ec60x_splitbs_7u_ansi.step)
+- [Standard plate no HE](files/plate_brass.step)
+- [Standard plate with HE](files/plate_he_compatible.step)
+- [EC60x standard ansi plate](files/plate_ec60x_standard_7u_ansi.step)
+- [EC60x split backspace ansi plate](files/plate_ec60x_splitbs_7u_ansi.step)
 
 *Extended will be online later*
 
