@@ -64,19 +64,20 @@ December 2025
 ### Colors
 ![Purple](img/commercial09.jpg)
 ![Silver](img/commercial03.jpg)
-![Lilac](img/commercial04.jpg)
-![RoseGold](img/commercial05.jpg)
-![RedAlert](img/commercial06.jpg)
-![Yellow](img/commercial07.jpg)
-![GlacierBlue](img/commercial08.jpg)
 ![BalsamGreen](img/commercial11.jpg)
 ![Black](img/commercial12.jpg)
+Copper (render to be added)
 ### Polycarbonate top render with WK layout
 ![PC_WK](img/commercial10.jpg)
 
 ## Media
-All prototypes made by DDS with pictures and sound test / reviews are listed on the dedicated web page here :
+Prototypes were ordered with the following GB colors :
+- Purple (WK prototype)
+- Silver (WK prototype)
+- Balsam green (HHKB prototype)
+- Copper (WKL prototypes)
 
+You can find pictures and sound test by clicking on the picture below.
 [![HLB PoorKoi 2 multimedia content](img/prototype/HLB_PoorKoi2_PC_Proto-3.jpg)](https://www.oliversphotoblog.com/2025/12/07/hlb-poorkoi-2/ "Go to multimedia content")
 
 ## Files
