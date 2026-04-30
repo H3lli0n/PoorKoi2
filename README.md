@@ -66,7 +66,7 @@ December 2025
 ![Silver](img/commercial03.jpg)
 ![BalsamGreen](img/commercial11.jpg)
 ![Black](img/commercial12.jpg)
-Copper (render to be added)
+![Copper](img/DSC03506.jpg)
 ### Polycarbonate top render with WK layout
 ![PC_WK](img/commercial10.jpg)
 
