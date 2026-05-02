@@ -62,11 +62,11 @@ December 2025
 - Polycarbonate bottom will have 2 koï fishes like the carrying case
 
 ### Colors
-![Purple](img/commercial09.jpg)
-![Silver](img/commercial03.jpg)
-![BalsamGreen](img/commercial11.jpg)
-![Black](img/commercial12.jpg)
-![Copper](img/commercial13.jpg)
+![Purple](img/purple.jpg)
+![Silver](img/silver.jpg)
+![BalsamGreen](img/balsam_green.jpg)
+![Black](img/black.jpg)
+![Copper Like](img/copper_like.jpg)
 ### Polycarbonate top render with WK layout
 ![PC_WK](img/commercial10.jpg)
 
