@@ -67,15 +67,14 @@ December 2025
 ![BalsamGreen](img/balsam_green.jpg)
 ![Black](img/black.jpg)
 ![Copper Like](img/copper_like.jpg)
-### Polycarbonate top render with WK layout
-![PC_WK](img/commercial10.jpg)
 
 ## Media
 Prototypes were ordered with the following GB colors :
 - Purple (WK prototype)
 - Silver (WK prototype)
 - Balsam green (HHKB prototype)
-- Copper (WKL prototypes)
+- Copper like (WKL prototypes)
+- Full Polycarbonate (WK prototype)
 
 You can find pictures and sound test by clicking on the picture below.
 [![HLB PoorKoi 2 multimedia content](img/prototype/HLB_PoorKoi2_PC_Proto-3.jpg)](https://www.oliversphotoblog.com/2025/12/07/hlb-poorkoi-2/ "Go to multimedia content")
