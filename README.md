@@ -35,11 +35,24 @@ Weight full built (aluminium top)= 950gr
 ![TechSpecs](img/techdraw.png)
 You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 
+## What is included ?
+- 1 x Carrying case
+- 1 x PoorKoi v2 case
+- 1 x Hotswap purple pcb
+- 1 x Unified Daughter Board C5
+- 1 x JST cable
+- 1 x Plate foam
+- 1 x Brass plate
+- 1 x Bag of Geon D7 feet
+- 2 x Bags of laser cut gaskets
+- Screws
+
 ## Compatibility
 - Hotswap
 ![Layouts](img/hlb60-h_visual.svg)
 - Solder
 ![Layouts](img/hlb60-s_visual.svg)
+
 ## Project's status
 ### When
 > First renders => done
@@ -48,9 +61,9 @@ You can find and share this [PDF Tech view](files/PoorTechView.pdf)
 
 > PCB prototypes => done
 
-> GeekHack IC => opened
+> GeekHack IC => done
 
-> Group-buy => ???
+> Group-buy => Estimated end of May / Start of June
 
 ### Changelog
 February 2026
@@ -68,7 +81,7 @@ December 2025
 ![Black](img/black.jpg)
 ![Copper Like](img/copper_like.jpg)
 
-## Media
+## Prototypes
 Prototypes were ordered with the following GB colors :
 - Purple (WK prototype)
 - Silver (WK prototype)
